@@ -1,7 +1,7 @@
 # photoClean
 
 photoCLean is a desktop application that organizes and/or extracts the photos in a given folder based on various parameters such as 
-date taken,
+date taken and other extractable metadata from photographed images.
 
 
 ## Using this Code
@@ -14,7 +14,8 @@ Extract folder and run executable with desired graphics settings.
 
 * Java 8 - https://www.java.com/
 * JavaFX - https://openjfx.io/
-* 
+* Maven - https://maven.apache.org/
+* JUnit - https://junit.org/junit5/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
