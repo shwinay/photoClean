@@ -6,9 +6,13 @@ date taken and other extractable metadata from photographed images.
 
 ## Using this Code
 
-Download for Windows here - https://slack-files.com/T03SJRZJU-F4UJBJHMG-48d42dbf25
+To run GUI using this repository - 
 
-Extract folder and run executable with desired graphics settings.
+*Navigate to desired folder
+*Clone repository by running - git clone https://github.com/shwinay/photoClean.git
+*Navigate within cloned repository to src/main/java/sample/source
+*Compile using javac Main.java
+*Run using java Main
 
 ## Technologies Used
 
