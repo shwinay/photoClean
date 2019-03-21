@@ -8,11 +8,11 @@ date taken and other extractable metadata from photographed images.
 
 To run GUI using this repository - 
 
-*Navigate to desired folder
-*Clone repository by running - git clone https://github.com/shwinay/photoClean.git
-*Navigate within cloned repository to src/main/java/sample/source
-*Compile using javac Main.java
-*Run using java Main
+* Navigate to desired folder
+* Clone repository by running - `git clone https://github.com/shwinay/photoClean.git`
+* Navigate within cloned repository to src/main/java/sample/source
+* Compile using `javac Main.java`
+* Run using `java Main`
 
 ## Technologies Used
 
