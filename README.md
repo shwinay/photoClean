@@ -1,6 +1,6 @@
 # photoClean
 
-photoCLean is a desktop application that organizes and/or extracts the photos in a given folder based on various parameters such as 
+photoClean is a desktop application that organizes and/or extracts the photos in a given folder based on various parameters such as 
 date taken and other extractable metadata from photographed images.
 
 
